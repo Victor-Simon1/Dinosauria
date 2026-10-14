@@ -1,0 +1,19 @@
+{
+    "name": "Lambeosaurus",
+    "rank": "genus",
+    "synonym": [
+        "Stephanosaurus",
+        "Didanodon",
+        "Tetragonosaurus praeceps",
+        "Didanodon altidens",
+        "Corythosaurus frontalis",
+        "Procheneosaurus",
+        "Tetragonosaurus"
+    ],
+    "is_nomen_dubium": false,
+    "size_m": null,
+    "weight_kg": null,
+    "begin_year": null,
+    "end_year": null,
+    "period": null
+}

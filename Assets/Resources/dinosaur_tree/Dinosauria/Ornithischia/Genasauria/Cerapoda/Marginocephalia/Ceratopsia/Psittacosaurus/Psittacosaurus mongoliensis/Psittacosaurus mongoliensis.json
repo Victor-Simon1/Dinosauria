@@ -1,0 +1,17 @@
+{
+    "name": "Psittacosaurus mongoliensis",
+    "rank": "species",
+    "synonym": [
+        "Protiguanodon mongoliense",
+        "Psittacosaurus guyangensis",
+        "Psittacosaurus protiguanodonensis",
+        "Psittacosaurus tingi",
+        "Psittacosaurus osborni"
+    ],
+    "is_nomen_dubium": false,
+    "size_m": null,
+    "weight_kg": null,
+    "begin_year": null,
+    "end_year": null,
+    "period": null
+}

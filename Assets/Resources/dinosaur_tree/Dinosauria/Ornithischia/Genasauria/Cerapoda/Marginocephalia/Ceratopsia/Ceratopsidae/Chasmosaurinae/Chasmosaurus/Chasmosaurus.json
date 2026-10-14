@@ -1,0 +1,19 @@
+{
+    "name": "Chasmosaurus",
+    "rank": "genus",
+    "synonym": [
+        "Eoceratops",
+        "Mojoceratops perifania",
+        "Monoclonius canadensis",
+        "Mojoceratops",
+        "Chasmosaurus kaiseni",
+        "Chasmosaurus brevirostris",
+        "Protorosaurus"
+    ],
+    "is_nomen_dubium": false,
+    "size_m": null,
+    "weight_kg": null,
+    "begin_year": null,
+    "end_year": null,
+    "period": null
+}

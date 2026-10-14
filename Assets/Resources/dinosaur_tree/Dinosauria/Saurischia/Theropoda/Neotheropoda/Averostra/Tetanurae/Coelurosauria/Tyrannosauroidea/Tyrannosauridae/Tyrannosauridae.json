@@ -1,0 +1,18 @@
+{
+    "name": "Tyrannosauridae",
+    "rank": "family",
+    "synonym": [
+        "Ornithomimus grandis",
+        "Deinodontidae",
+        "Aublysodon",
+        "Aublysodon mirandus",
+        "Aublysodon cristatus",
+        "Aublysodon amplus"
+    ],
+    "is_nomen_dubium": false,
+    "size_m": null,
+    "weight_kg": null,
+    "begin_year": null,
+    "end_year": null,
+    "period": null
+}

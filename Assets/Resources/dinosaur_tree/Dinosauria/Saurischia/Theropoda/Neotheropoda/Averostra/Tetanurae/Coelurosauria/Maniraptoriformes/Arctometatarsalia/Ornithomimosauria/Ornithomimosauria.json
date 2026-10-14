@@ -1,0 +1,20 @@
+{
+    "name": "Ornithomimosauria",
+    "rank": "infraorder",
+    "synonym": [
+        "Coelosaurus",
+        "Coelosaurus affinis",
+        "Dryosaurus grandis",
+        "Coelosaurus antiquus",
+        "Valdoraptor",
+        "Valdoraptor oweni",
+        "Thecocoelurus",
+        "Thecocoelurus daviesi"
+    ],
+    "is_nomen_dubium": false,
+    "size_m": null,
+    "weight_kg": null,
+    "begin_year": null,
+    "end_year": null,
+    "period": null
+}

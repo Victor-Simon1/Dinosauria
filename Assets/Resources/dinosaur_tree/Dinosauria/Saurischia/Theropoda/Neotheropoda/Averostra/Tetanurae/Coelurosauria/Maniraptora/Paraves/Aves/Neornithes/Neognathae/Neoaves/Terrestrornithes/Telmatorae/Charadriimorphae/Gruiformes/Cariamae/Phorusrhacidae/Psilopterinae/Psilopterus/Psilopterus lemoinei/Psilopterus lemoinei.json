@@ -1,0 +1,17 @@
+{
+    "name": "Psilopterus lemoinei",
+    "rank": "species",
+    "synonym": [
+        "Psilopterus australis",
+        "Staphylornis gallardoi",
+        "Pelecyornis tubulatus",
+        "Staphylornis erythacus",
+        "Phororhacos modicus"
+    ],
+    "is_nomen_dubium": false,
+    "size_m": null,
+    "weight_kg": null,
+    "begin_year": null,
+    "end_year": null,
+    "period": null
+}

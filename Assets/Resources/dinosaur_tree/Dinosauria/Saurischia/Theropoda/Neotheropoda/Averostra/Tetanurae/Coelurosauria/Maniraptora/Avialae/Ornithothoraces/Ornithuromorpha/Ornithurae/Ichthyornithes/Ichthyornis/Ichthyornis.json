@@ -1,0 +1,21 @@
+{
+    "name": "Ichthyornis",
+    "rank": "genus",
+    "synonym": [
+        "Colonosaurus",
+        "Angelinornis",
+        "Ichthyornis victor",
+        "Ichthyornis agilis",
+        "Ichthyornis antecessor",
+        "Ichthyornis validus",
+        "Ichthyornis anceps",
+        "Colonosaurus mudgei",
+        "Plegadornis"
+    ],
+    "is_nomen_dubium": false,
+    "size_m": null,
+    "weight_kg": null,
+    "begin_year": null,
+    "end_year": null,
+    "period": null
+}

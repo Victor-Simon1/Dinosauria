@@ -1,0 +1,24 @@
+{
+    "name": "Psittacosaurus",
+    "rank": "genus",
+    "synonym": [
+        "Hongshanosaurus",
+        "Psittacosaurus youngi",
+        "Psittacosaurus major",
+        "Psittacosaurus houi",
+        "Protiguanodon",
+        "Protiguanodon mongoliense",
+        "Psittacosaurus guyangensis",
+        "Psittacosaurus protiguanodonensis",
+        "Psittacosaurus tingi",
+        "Psittacosaurus osborni",
+        "Psittacosaurus ordosensis",
+        "Psittacosaurus mazongshanensis"
+    ],
+    "is_nomen_dubium": false,
+    "size_m": null,
+    "weight_kg": null,
+    "begin_year": null,
+    "end_year": null,
+    "period": null
+}

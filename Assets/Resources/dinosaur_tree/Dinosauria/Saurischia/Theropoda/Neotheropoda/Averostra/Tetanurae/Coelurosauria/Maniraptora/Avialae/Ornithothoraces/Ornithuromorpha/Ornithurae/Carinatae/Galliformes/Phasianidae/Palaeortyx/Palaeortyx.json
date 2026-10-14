@@ -1,0 +1,17 @@
+{
+    "name": "Palaeortyx",
+    "rank": "genus",
+    "synonym": [
+        "Palaeortyx depereti",
+        "Rallus dasypus",
+        "Palaeortyx grivensis",
+        "Palaeortyx ocyptera",
+        "Coturnix miocenica"
+    ],
+    "is_nomen_dubium": false,
+    "size_m": null,
+    "weight_kg": null,
+    "begin_year": null,
+    "end_year": null,
+    "period": null
+}

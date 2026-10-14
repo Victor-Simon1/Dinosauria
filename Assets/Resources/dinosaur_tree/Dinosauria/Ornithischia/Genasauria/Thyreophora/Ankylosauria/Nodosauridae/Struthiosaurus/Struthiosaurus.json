@@ -1,0 +1,22 @@
+{
+    "name": "Struthiosaurus",
+    "rank": "genus",
+    "synonym": [
+        "Danubiosaurus",
+        "Crataeomus",
+        "Pleuropeltus",
+        "Danubiosaurus anceps",
+        "Crataeomus lepidophorus",
+        "Pleuropeltus suessii",
+        "Crataeomus pawlowitschii",
+        "Hoplosaurus ischyrus",
+        "Leipsanosaurus noricus",
+        "Leipsanosaurus"
+    ],
+    "is_nomen_dubium": false,
+    "size_m": null,
+    "weight_kg": null,
+    "begin_year": null,
+    "end_year": null,
+    "period": null
+}

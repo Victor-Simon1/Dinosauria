@@ -1,0 +1,16 @@
+{
+    "name": "Brontornis",
+    "rank": "genus",
+    "synonym": [
+        "Rostrornis",
+        "Rostrornis floweri",
+        "Brontornis platyonyx",
+        "Liornis floweri"
+    ],
+    "is_nomen_dubium": false,
+    "size_m": null,
+    "weight_kg": null,
+    "begin_year": null,
+    "end_year": null,
+    "period": null
+}

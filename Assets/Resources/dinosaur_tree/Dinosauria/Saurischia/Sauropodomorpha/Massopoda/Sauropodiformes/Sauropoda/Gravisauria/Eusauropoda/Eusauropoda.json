@@ -1,0 +1,20 @@
+{
+    "name": "Eusauropoda",
+    "rank": "unranked clade",
+    "synonym": [
+        "Bothriospondylus madagascariensis",
+        "Ornithopsis leedsii",
+        "Cetiosaurus glymptonensis",
+        "Algoasaurus",
+        "Ornithopsis leedsi",
+        "Algoasaurus bauri",
+        "Tharosaurus",
+        "Tharosaurus indicus"
+    ],
+    "is_nomen_dubium": false,
+    "size_m": null,
+    "weight_kg": null,
+    "begin_year": null,
+    "end_year": null,
+    "period": null
+}

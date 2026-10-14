@@ -1,0 +1,21 @@
+{
+    "name": "Allosaurus fragilis",
+    "rank": "species",
+    "synonym": [
+        "Labrosaurus ferox",
+        "Epanterias amplexus",
+        "Allosaurus lucaris",
+        "Saurophagus maximus",
+        "Poicilopleuron valens",
+        "Apatodon mirus",
+        "Creosaurus atrox",
+        "Laelaps trihedrodon",
+        "Allosaurus ferox"
+    ],
+    "is_nomen_dubium": false,
+    "size_m": null,
+    "weight_kg": null,
+    "begin_year": null,
+    "end_year": null,
+    "period": null
+}

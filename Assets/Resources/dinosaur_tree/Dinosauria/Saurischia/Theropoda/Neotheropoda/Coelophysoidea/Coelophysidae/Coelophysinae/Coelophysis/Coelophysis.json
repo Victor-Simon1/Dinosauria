@@ -1,0 +1,17 @@
+{
+    "name": "Coelophysis",
+    "rank": "genus",
+    "synonym": [
+        "Rioarribasaurus colberti",
+        "Coelurus longicollis",
+        "Tanystropheus willistoni",
+        "Podokesaurus",
+        "Rioarribasaurus"
+    ],
+    "is_nomen_dubium": false,
+    "size_m": null,
+    "weight_kg": null,
+    "begin_year": null,
+    "end_year": null,
+    "period": null
+}

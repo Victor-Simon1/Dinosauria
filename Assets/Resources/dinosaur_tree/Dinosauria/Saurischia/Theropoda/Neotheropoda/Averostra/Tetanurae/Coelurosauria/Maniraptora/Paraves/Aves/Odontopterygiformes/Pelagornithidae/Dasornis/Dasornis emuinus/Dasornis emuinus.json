@@ -1,0 +1,15 @@
+{
+    "name": "Dasornis emuinus",
+    "rank": "species",
+    "synonym": [
+        "Dasornis londinensis",
+        "Neptuniavis miranda",
+        "Argillornis longipennis"
+    ],
+    "is_nomen_dubium": false,
+    "size_m": null,
+    "weight_kg": null,
+    "begin_year": null,
+    "end_year": null,
+    "period": null
+}

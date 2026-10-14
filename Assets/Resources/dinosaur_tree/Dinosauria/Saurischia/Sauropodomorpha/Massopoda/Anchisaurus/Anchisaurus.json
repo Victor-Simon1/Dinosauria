@@ -1,0 +1,17 @@
+{
+    "name": "Anchisaurus",
+    "rank": "genus",
+    "synonym": [
+        "Megadactylus",
+        "Ammosaurus major",
+        "Anchisaurus colurus",
+        "Anchisaurus solus",
+        "Amphisaurus"
+    ],
+    "is_nomen_dubium": false,
+    "size_m": null,
+    "weight_kg": null,
+    "begin_year": null,
+    "end_year": null,
+    "period": null
+}

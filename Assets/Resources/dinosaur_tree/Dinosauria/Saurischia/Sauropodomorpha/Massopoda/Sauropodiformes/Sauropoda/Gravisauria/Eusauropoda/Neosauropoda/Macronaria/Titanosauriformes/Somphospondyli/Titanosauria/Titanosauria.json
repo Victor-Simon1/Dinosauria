@@ -1,0 +1,19 @@
+{
+    "name": "Titanosauria",
+    "rank": "unranked clade",
+    "synonym": [
+        "Titanosaurus indicus",
+        "Argyrosaurinae",
+        "Titanosaurus",
+        "Titanosaurus nanus",
+        "Titanosaurus falloti",
+        "Titanosaurus rahioliensis",
+        "Titanosaurus madagascariensis"
+    ],
+    "is_nomen_dubium": false,
+    "size_m": null,
+    "weight_kg": null,
+    "begin_year": null,
+    "end_year": null,
+    "period": null
+}

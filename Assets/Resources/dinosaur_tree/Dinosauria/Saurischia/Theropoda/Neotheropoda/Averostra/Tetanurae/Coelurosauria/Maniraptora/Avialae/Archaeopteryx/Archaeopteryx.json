@@ -1,0 +1,22 @@
+{
+    "name": "Archaeopteryx",
+    "rank": "genus",
+    "synonym": [
+        "Wellnhoferia grandis",
+        "Archaeopteryx bavarica",
+        "Pterodactylus crassipes",
+        "Archaeopteryx oweni",
+        "Archaeornis siemensii",
+        "Archaeopteryx macrura",
+        "Griphosaurus problematicus",
+        "Griphosaurus",
+        "Archaeornis",
+        "Jurapteryx"
+    ],
+    "is_nomen_dubium": false,
+    "size_m": null,
+    "weight_kg": null,
+    "begin_year": null,
+    "end_year": null,
+    "period": null
+}

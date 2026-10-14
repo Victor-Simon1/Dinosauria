@@ -1,0 +1,17 @@
+{
+    "name": "Corythosaurus casuarius",
+    "rank": "species",
+    "synonym": [
+        "Corythosaurus bicristatus",
+        "Corythosaurus brevicristatus",
+        "Tetragonosaurus cranibrevis",
+        "Tetragonosaurus erectofrons",
+        "Corythosaurus excavatus"
+    ],
+    "is_nomen_dubium": false,
+    "size_m": null,
+    "weight_kg": null,
+    "begin_year": null,
+    "end_year": null,
+    "period": null
+}

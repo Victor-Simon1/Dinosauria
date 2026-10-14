@@ -1,0 +1,16 @@
+{
+    "name": "Shantungosaurus",
+    "rank": "genus",
+    "synonym": [
+        "Zhuchengosaurus maximus",
+        "Huaxiaosaurus aigahtens",
+        "Huaxiaosaurus",
+        "Zhuchengosaurus"
+    ],
+    "is_nomen_dubium": false,
+    "size_m": null,
+    "weight_kg": null,
+    "begin_year": null,
+    "end_year": null,
+    "period": null
+}

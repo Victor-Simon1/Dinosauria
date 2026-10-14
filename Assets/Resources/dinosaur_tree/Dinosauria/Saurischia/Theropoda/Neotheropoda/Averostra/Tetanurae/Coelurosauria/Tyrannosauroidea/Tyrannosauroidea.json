@@ -1,0 +1,20 @@
+{
+    "name": "Tyrannosauroidea",
+    "rank": "superfamily",
+    "synonym": [
+        "Tomodon horrificus",
+        "Diplotomodon",
+        "Tomodon",
+        "Chingkankousaurus",
+        "Chingkankousaurus fragilis",
+        "Deinodon",
+        "Deinodon horridus",
+        "Tyrannosaurus lanpingensis"
+    ],
+    "is_nomen_dubium": false,
+    "size_m": null,
+    "weight_kg": null,
+    "begin_year": null,
+    "end_year": null,
+    "period": null
+}

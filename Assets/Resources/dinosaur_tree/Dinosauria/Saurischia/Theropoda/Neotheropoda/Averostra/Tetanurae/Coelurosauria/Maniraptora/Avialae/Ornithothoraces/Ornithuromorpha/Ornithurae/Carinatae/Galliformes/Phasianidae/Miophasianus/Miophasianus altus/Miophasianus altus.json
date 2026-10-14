@@ -1,0 +1,18 @@
+{
+    "name": "Miophasianus altus",
+    "rank": "species",
+    "synonym": [
+        "Phasianus desnoyersi",
+        "Gallus longaevus",
+        "Ardea similis",
+        "Tantalus milneedwardsii",
+        "Palaeortyx maxima",
+        "Phasianus augustus"
+    ],
+    "is_nomen_dubium": false,
+    "size_m": null,
+    "weight_kg": null,
+    "begin_year": null,
+    "end_year": null,
+    "period": null
+}

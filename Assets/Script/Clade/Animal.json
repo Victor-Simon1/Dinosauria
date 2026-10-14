@@ -1,0 +1,90 @@
+{
+  "taxons": [
+    { "nom_scientifique": "Animalia", "rang": "KINGDOM" },
+    { "nom_scientifique": "Chordata", "rang": "PHYLUM" },
+    { "nom_scientifique": "Mammalia", "rang": "CLASS" },
+    { "nom_scientifique": "Theria", "rang": "CLADE" },
+
+    { "nom_scientifique": "Carnivora", "rang": "ORDER" },
+    { "nom_scientifique": "Caniformia", "rang": "SUBORDER" },
+    { "nom_scientifique": "Canidae", "rang": "FAMILY" },
+    { "nom_scientifique": "Canis", "rang": "GENUS" },
+    { "nom_scientifique": "Canis lupus", "rang": "SPACIE" },
+    { "nom_scientifique": "Canis latrans", "rang": "SPACIE" },
+
+    { "nom_scientifique": "Vulpes", "rang": "GENUS" },
+    { "nom_scientifique": "Vulpes vulpes", "rang": "SPACIE" },
+
+    { "nom_scientifique": "Felidae", "rang": "FAMILY" },
+    { "nom_scientifique": "Panthera", "rang": "GENUS" },
+    { "nom_scientifique": "Panthera leo", "rang": "SPACIE" },
+    { "nom_scientifique": "Panthera tigris", "rang": "SPACIE" },
+    { "nom_scientifique": "Panthera pardus", "rang": "SPACIE" },
+
+    { "nom_scientifique": "Felis", "rang": "GENUS" },
+    { "nom_scientifique": "Felis catus", "rang": "SPACIE" },
+
+    { "nom_scientifique": "Ursidae", "rang": "FAMILY" },
+    { "nom_scientifique": "Ursus", "rang": "GENUS" },
+    { "nom_scientifique": "Ursus arctos", "rang": "SPACIE" },
+    { "nom_scientifique": "Ursus maritimus", "rang": "SPACIE" },
+
+    { "nom_scientifique": "Primates", "rang": "ORDER" },
+    { "nom_scientifique": "Haplorrhini", "rang": "SUBORDER" },
+    { "nom_scientifique": "Hominidae", "rang": "FAMILY" },
+    { "nom_scientifique": "Homo", "rang": "GENUS" },
+    { "nom_scientifique": "Homo sapiens", "rang": "SPACIE" },
+
+    { "nom_scientifique": "Pan", "rang": "GENUS" },
+    { "nom_scientifique": "Pan troglodytes", "rang": "SPACIE" },
+    { "nom_scientifique": "Pan paniscus", "rang": "SPACIE" },
+
+    { "nom_scientifique": "Gorilla", "rang": "GENUS" },
+    { "nom_scientifique": "Gorilla gorilla", "rang": "SPACIE" },
+
+    { "nom_scientifique": "Proboscidea", "rang": "ORDER" },
+    { "nom_scientifique": "Elephantidae", "rang": "FAMILY" },
+    { "nom_scientifique": "Loxodonta", "rang": "GENUS" },
+    { "nom_scientifique": "Loxodonta africana", "rang": "SPACIE" },
+
+    { "nom_scientifique": "Cetacea", "rang": "ORDER" },
+    { "nom_scientifique": "Odontoceti", "rang": "SUBORDER" },
+    { "nom_scientifique": "Delphinidae", "rang": "FAMILY" },
+    { "nom_scientifique": "Orcinus", "rang": "GENUS" },
+    { "nom_scientifique": "Orcinus orca", "rang": "SPACIE" },
+
+    { "nom_scientifique": "Mysticeti", "rang": "SUBORDER" },
+    { "nom_scientifique": "Balaenopteridae", "rang": "FAMILY" },
+    { "nom_scientifique": "Balaenoptera", "rang": "GENUS" },
+    { "nom_scientifique": "Balaenoptera musculus", "rang": "SPACIE" },
+
+    { "nom_scientifique": "Rodentia", "rang": "ORDER" },
+    { "nom_scientifique": "Sciuridae", "rang": "FAMILY" },
+    { "nom_scientifique": "Sciurus", "rang": "GENUS" },
+    { "nom_scientifique": "Sciurus vulgaris", "rang": "SPACIE" },
+
+    { "nom_scientifique": "Muridae", "rang": "FAMILY" },
+    { "nom_scientifique": "Mus", "rang": "GENUS" },
+    { "nom_scientifique": "Mus musculus", "rang": "SPACIE" },
+
+    { "nom_scientifique": "Lagomorpha", "rang": "ORDER" },
+    { "nom_scientifique": "Leporidae", "rang": "FAMILY" },
+    { "nom_scientifique": "Lepus", "rang": "GENUS" },
+    { "nom_scientifique": "Lepus europaeus", "rang": "SPACIE" },
+
+    { "nom_scientifique": "Oryctolagus", "rang": "GENUS" },
+    { "nom_scientifique": "Oryctolagus cuniculus", "rang": "SPACIE" },
+
+    { "nom_scientifique": "Artiodactyla", "rang": "ORDER" },
+    { "nom_scientifique": "Cervidae", "rang": "FAMILY" },
+    { "nom_scientifique": "Cervus", "rang": "GENUS" },
+    { "nom_scientifique": "Cervus elaphus", "rang": "SPACIE" },
+
+    { "nom_scientifique": "Bovidae", "rang": "FAMILY" },
+    { "nom_scientifique": "Bos", "rang": "GENUS" },
+    { "nom_scientifique": "Bos taurus", "rang": "SPACIE" },
+
+    { "nom_scientifique": "Ovis", "rang": "GENUS" },
+    { "nom_scientifique": "Ovis aries", "rang": "SPACIE" }
+  ]
+}

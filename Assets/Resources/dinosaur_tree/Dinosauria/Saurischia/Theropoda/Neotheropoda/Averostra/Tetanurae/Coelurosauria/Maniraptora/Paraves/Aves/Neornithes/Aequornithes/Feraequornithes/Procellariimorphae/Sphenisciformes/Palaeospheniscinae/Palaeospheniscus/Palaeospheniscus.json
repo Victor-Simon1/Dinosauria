@@ -1,0 +1,32 @@
+{
+    "name": "Palaeospheniscus",
+    "rank": "genus",
+    "synonym": [
+        "Pseudospheniscus",
+        "Perispheniscus",
+        "Treleudytes",
+        "Palaeospheniscus intermedius",
+        "Palaeospheniscus interruptus",
+        "Palaeospheniscus menzbieri",
+        "Palaeospheniscus affinis",
+        "Palaeospheniscus gracilis",
+        "Neculus rothi",
+        "Palaeospheniscus nereius",
+        "Palaeospheniscus medianus",
+        "Pseudospheniscus convexus",
+        "Palaeospheniscus interplanus",
+        "Pseudospheniscus planus",
+        "Palaeospheniscus concavus",
+        "Palaeospheniscus rothi",
+        "Palaeospheniscus planus",
+        "Perispheniscus wimani",
+        "Chubutodyptes",
+        "Paraspheniscus"
+    ],
+    "is_nomen_dubium": false,
+    "size_m": null,
+    "weight_kg": null,
+    "begin_year": null,
+    "end_year": null,
+    "period": null
+}

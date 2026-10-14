@@ -1,0 +1,20 @@
+{
+    "name": "Anas",
+    "rank": "genus",
+    "synonym": [
+        "Dafila",
+        "Pachyanas",
+        "Anas obscura",
+        "Nettapus eyrensis",
+        "Anas gracilipes",
+        "Anas (Nettium) strenua",
+        "Nyroca robusta",
+        "Anas boschas"
+    ],
+    "is_nomen_dubium": false,
+    "size_m": null,
+    "weight_kg": null,
+    "begin_year": null,
+    "end_year": null,
+    "period": null
+}

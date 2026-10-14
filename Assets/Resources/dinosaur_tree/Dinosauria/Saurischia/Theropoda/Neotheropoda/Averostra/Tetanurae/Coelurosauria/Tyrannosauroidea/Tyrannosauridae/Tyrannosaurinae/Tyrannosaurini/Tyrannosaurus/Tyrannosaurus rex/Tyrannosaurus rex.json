@@ -1,0 +1,19 @@
+{
+    "name": "Tyrannosaurus rex",
+    "rank": "species",
+    "synonym": [
+        "Albertosaurus megagracilis",
+        "Aublysodon molnaris",
+        "Dynamosaurus imperiosus",
+        "Tyrannosaurus regina",
+        "Manospondylus gigas",
+        "Nanotyrannus lancensis",
+        "Tyrannosaurus imperator"
+    ],
+    "is_nomen_dubium": false,
+    "size_m": null,
+    "weight_kg": null,
+    "begin_year": null,
+    "end_year": null,
+    "period": null
+}

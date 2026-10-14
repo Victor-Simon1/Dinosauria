@@ -1,0 +1,21 @@
+{
+    "name": "Tarbosaurus",
+    "rank": "genus",
+    "synonym": [
+        "Maleevosaurus",
+        "Jenghizkhan",
+        "Shanshanosaurus",
+        "Albertosaurus periculosus",
+        "Shanshanosaurus huoyanshanensis",
+        "Tyrannosaurus luanchuanensis",
+        "Gorgosaurus novojilovi",
+        "Tarbosaurus efremovi",
+        "Gorgosaurus lancinator"
+    ],
+    "is_nomen_dubium": false,
+    "size_m": null,
+    "weight_kg": null,
+    "begin_year": null,
+    "end_year": null,
+    "period": null
+}

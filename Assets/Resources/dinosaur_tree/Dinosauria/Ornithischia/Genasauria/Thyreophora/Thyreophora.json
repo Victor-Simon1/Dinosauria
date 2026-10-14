@@ -1,0 +1,31 @@
+{
+    "name": "Thyreophora",
+    "rank": "unranked clade",
+    "synonym": [
+        "Lusitanosaurus liasicus",
+        "Omosaurus hastiger",
+        "Stegosaurides",
+        "Stegosaurides excavatus",
+        "Taveirosaurus",
+        "Taveirosaurus costai",
+        "Bienosaurus",
+        "Bienosaurus lufengensis",
+        "Sinopeltosaurus",
+        "Sinopelta",
+        "Sinopelta minima",
+        "Peishansaurus",
+        "Peishansaurus philemys",
+        "Andhrasaurus",
+        "Andhrasaurus indicus",
+        "Lusitanosaurus",
+        "Scelidosaurus arizonensis",
+        "Tatisaurus",
+        "Tatisaurus oehleri"
+    ],
+    "is_nomen_dubium": false,
+    "size_m": null,
+    "weight_kg": null,
+    "begin_year": null,
+    "end_year": null,
+    "period": null
+}

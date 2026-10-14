@@ -1,0 +1,24 @@
+{
+    "name": "Phalacrocorax",
+    "rank": "genus",
+    "synonym": [
+        "Pliocarbo",
+        "Carbo filamentosus",
+        "Phalacrocorax ibericus",
+        "Stictocarbo",
+        "Phalacrocorax vetustus",
+        "Phalacrocorax gregorii",
+        "Pelecanus graculus",
+        "Phalacrocorax pampeanus",
+        "Pelecanus olivaceus",
+        "Australocorax",
+        "Stictocarbo kenyoni",
+        "Graculus"
+    ],
+    "is_nomen_dubium": false,
+    "size_m": null,
+    "weight_kg": null,
+    "begin_year": null,
+    "end_year": null,
+    "period": null
+}

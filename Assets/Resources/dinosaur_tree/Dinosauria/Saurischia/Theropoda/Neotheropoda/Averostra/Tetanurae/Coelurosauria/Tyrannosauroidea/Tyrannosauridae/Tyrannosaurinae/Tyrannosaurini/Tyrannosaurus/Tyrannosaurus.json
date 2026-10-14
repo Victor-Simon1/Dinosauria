@@ -1,0 +1,26 @@
+{
+    "name": "Tyrannosaurus",
+    "rank": "genus",
+    "synonym": [
+        "Tyrannosauripus",
+        "Dinotyrannus",
+        "Manospondylus",
+        "Dynamosaurus",
+        "Stygivenator",
+        "Tyrannosaurus turpanensis",
+        "Albertosaurus megagracilis",
+        "Aublysodon molnaris",
+        "Dynamosaurus imperiosus",
+        "Tyrannosaurus regina",
+        "Manospondylus gigas",
+        "Nanotyrannus lancensis",
+        "Tyrannosaurus imperator",
+        "Nanotyrannus"
+    ],
+    "is_nomen_dubium": false,
+    "size_m": null,
+    "weight_kg": null,
+    "begin_year": null,
+    "end_year": null,
+    "period": null
+}

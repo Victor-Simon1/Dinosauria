@@ -1,0 +1,16 @@
+{
+    "name": "Ornithomimus",
+    "rank": "genus",
+    "synonym": [
+        "Ornithomimus sedens",
+        "Struthiomimus currellii",
+        "Struthiomimus samueli",
+        "Struthiomimus ingens"
+    ],
+    "is_nomen_dubium": false,
+    "size_m": null,
+    "weight_kg": null,
+    "begin_year": null,
+    "end_year": null,
+    "period": null
+}

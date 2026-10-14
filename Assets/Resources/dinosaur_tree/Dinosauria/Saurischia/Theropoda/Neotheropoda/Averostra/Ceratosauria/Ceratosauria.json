@@ -1,0 +1,20 @@
+{
+    "name": "Ceratosauria",
+    "rank": "suborder",
+    "synonym": [
+        "Pterospondylus",
+        "Pterospondylus trielbae",
+        "Megalosaurus meriani",
+        "Betasuchus",
+        "Betasuchus bredai",
+        "Dolichosuchus",
+        "Orthogoniosaurus",
+        "Orthogoniosaurus matleyi"
+    ],
+    "is_nomen_dubium": false,
+    "size_m": null,
+    "weight_kg": null,
+    "begin_year": null,
+    "end_year": null,
+    "period": null
+}

@@ -1,0 +1,32 @@
+{
+    "name": "Anomoepus scambus",
+    "rank": "species",
+    "synonym": [
+        "Anomoepus intermedius",
+        "Brontozoum fulicoides",
+        "Plesiornis minor",
+        "Apatichnus holyokensis",
+        "Aethyopus minor",
+        "Anomoepus cuneatus",
+        "Anomoepus isodactylus",
+        "Moyenisauropus dodai",
+        "Moyenisauropus minor",
+        "Apatichnus circumagens",
+        "Eubrontes gracillimus",
+        "Moyenisauropus longicauda",
+        "Anomoepus curvatus",
+        "Moyenisauropus vermivorus",
+        "Moyenisauropus levicauda",
+        "Moyenisauropus natatilis",
+        "Anomoepus minor",
+        "Moyenisauropus natator",
+        "Anomoepus minimus",
+        "Plesiornis quadrupes"
+    ],
+    "is_nomen_dubium": false,
+    "size_m": null,
+    "weight_kg": null,
+    "begin_year": null,
+    "end_year": null,
+    "period": null
+}

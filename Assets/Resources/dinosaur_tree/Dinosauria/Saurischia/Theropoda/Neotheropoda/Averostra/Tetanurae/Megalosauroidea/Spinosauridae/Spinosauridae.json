@@ -1,0 +1,16 @@
+{
+    "name": "Spinosauridae",
+    "rank": "family",
+    "synonym": [
+        "Siamosaurus",
+        "Siamosaurus suteethorni",
+        "Irritatoridae",
+        "Sinopliosaurus fusuiensis"
+    ],
+    "is_nomen_dubium": false,
+    "size_m": null,
+    "weight_kg": null,
+    "begin_year": null,
+    "end_year": null,
+    "period": null
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Camarasaurus",
+    "rank": "genus",
+    "synonym": [
+        "Camarasaurus leptodirus",
+        "Caulodon diversidens",
+        "Caulodon leptoganus",
+        "Amphicoelias latus",
+        "Uintasaurus",
+        "Uintasaurus douglassi",
+        "Camarasaurus annae",
+        "Morosaurus",
+        "Pleurocoelus montanus",
+        "Morosaurus robustus",
+        "Morosaurus impar",
+        "Cathetosaurus",
+        "Caulodon"
+    ],
+    "is_nomen_dubium": false,
+    "size_m": null,
+    "weight_kg": null,
+    "begin_year": null,
+    "end_year": null,
+    "period": null
+}

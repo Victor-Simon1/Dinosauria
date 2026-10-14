@@ -1,0 +1,19 @@
+{
+    "name": "Edmontosaurus",
+    "rank": "genus",
+    "synonym": [
+        "Anatotitan",
+        "Anatosaurus",
+        "Edmontosaurus edmontoni",
+        "Trachodon longiceps",
+        "Anatosaurus copei",
+        "Edmontosaurus saskatchewanensis",
+        "Agathaumas milo"
+    ],
+    "is_nomen_dubium": false,
+    "size_m": null,
+    "weight_kg": null,
+    "begin_year": null,
+    "end_year": null,
+    "period": null
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Ceratopsidae",
+    "rank": "family",
+    "synonym": [
+        "Triceratops ingens",
+        "Ugrosaurus",
+        "Ugrosaurus olsoni",
+        "Triceratops galeus",
+        "Agathaumidae",
+        "Polyonax",
+        "Polyonax mortuarius",
+        "Triceratops maximus",
+        "Agathaumas",
+        "Agathaumas sylvestris",
+        "Bison alticornis"
+    ],
+    "is_nomen_dubium": false,
+    "size_m": null,
+    "weight_kg": null,
+    "begin_year": null,
+    "end_year": null,
+    "period": null
+}

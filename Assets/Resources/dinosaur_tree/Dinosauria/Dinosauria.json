@@ -1,0 +1,30 @@
+{
+    "name": "Dinosauria",
+    "rank": "unranked clade",
+    "synonym": [
+        "Gigantosauropus",
+        "Gigantosauropus asturiensis",
+        "Iguanodonichnus",
+        "Iguanodonichnus frenkii",
+        "Yunnanpus",
+        "Neosauropus",
+        "Neosauropus lagosteirensis",
+        "Omosaurus phillipsi",
+        "Ornithoscelida",
+        "Eudinosauria",
+        "Huanglongpus",
+        "Huanglongpus shengouensis",
+        "Sinoichnites",
+        "Sinoichnites youngi",
+        "Sauropodichnus",
+        "Astrodon pusillus",
+        "Mirsosauropus",
+        "Mirsosauropus tursunzadei"
+    ],
+    "is_nomen_dubium": false,
+    "size_m": null,
+    "weight_kg": null,
+    "begin_year": null,
+    "end_year": null,
+    "period": null
+}

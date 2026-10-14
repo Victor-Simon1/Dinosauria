@@ -1,0 +1,19 @@
+{
+    "name": "Abelisauridae",
+    "rank": "family",
+    "synonym": [
+        "Dryptosauroides",
+        "Dryptosauroides grandis",
+        "Coeluroides",
+        "Coeluroides largus",
+        "Compsosuchus solus",
+        "Megalosaurus chubutensis",
+        "Compsosuchus"
+    ],
+    "is_nomen_dubium": false,
+    "size_m": null,
+    "weight_kg": null,
+    "begin_year": null,
+    "end_year": null,
+    "period": null
+}

@@ -1,0 +1,27 @@
+{
+    "name": "Allosaurus",
+    "rank": "genus",
+    "synonym": [
+        "Labrosaurus",
+        "Creosaurus",
+        "Saurophagus",
+        "Apatodon",
+        "Labrosaurus ferox",
+        "Epanterias amplexus",
+        "Allosaurus lucaris",
+        "Saurophagus maximus",
+        "Poicilopleuron valens",
+        "Apatodon mirus",
+        "Creosaurus atrox",
+        "Laelaps trihedrodon",
+        "Allosaurus ferox",
+        "Antrodemus",
+        "Epanterias"
+    ],
+    "is_nomen_dubium": false,
+    "size_m": null,
+    "weight_kg": null,
+    "begin_year": null,
+    "end_year": null,
+    "period": null
+}

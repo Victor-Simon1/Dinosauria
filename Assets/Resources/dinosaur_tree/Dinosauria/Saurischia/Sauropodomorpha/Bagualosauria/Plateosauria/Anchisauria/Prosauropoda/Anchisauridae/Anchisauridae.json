@@ -1,0 +1,17 @@
+{
+    "name": "Anchisauridae",
+    "rank": "family",
+    "synonym": [
+        "Amphisauridae",
+        "Palaeosauridae",
+        "Gryponychidae",
+        "Palaeosauriscidae",
+        "Gryponichidae"
+    ],
+    "is_nomen_dubium": false,
+    "size_m": null,
+    "weight_kg": null,
+    "begin_year": null,
+    "end_year": null,
+    "period": null
+}

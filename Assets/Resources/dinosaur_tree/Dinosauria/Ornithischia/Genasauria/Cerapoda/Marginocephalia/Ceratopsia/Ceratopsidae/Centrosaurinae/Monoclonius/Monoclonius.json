@@ -1,0 +1,16 @@
+{
+    "name": "Monoclonius",
+    "rank": "genus",
+    "synonym": [
+        "Monoclonius recurvicornis",
+        "Monoclonius sphenocerus",
+        "Monoclonius fissus",
+        "Monoclonius lowei"
+    ],
+    "is_nomen_dubium": false,
+    "size_m": null,
+    "weight_kg": null,
+    "begin_year": null,
+    "end_year": null,
+    "period": null
+}

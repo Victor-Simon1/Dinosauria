@@ -1,0 +1,30 @@
+{
+    "name": "Struthio",
+    "rank": "genus",
+    "synonym": [
+        "Danubiosaurus",
+        "Crataeomus",
+        "Pleuropeltus",
+        "Danubiosaurus anceps",
+        "Crataeomus lepidophorus",
+        "Pleuropeltus suessii",
+        "Crataeomus pawlowitschii",
+        "Hoplosaurus ischyrus",
+        "Leipsanosaurus noricus",
+        "Leipsanosaurus",
+        "Pachystruthio",
+        "Struthiolithus",
+        "Palaeostruthio",
+        "Struthio orlovi",
+        "Palaeostruthio sternatus",
+        "Struthiolithus adzalycensis",
+        "Struthiolithus alexejevi",
+        "Struthio novorossicus"
+    ],
+    "is_nomen_dubium": false,
+    "size_m": null,
+    "weight_kg": null,
+    "begin_year": null,
+    "end_year": null,
+    "period": null
+}

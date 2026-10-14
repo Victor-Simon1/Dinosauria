@@ -1,0 +1,19 @@
+{
+    "name": "Archaeopteryx lithographica",
+    "rank": "species",
+    "synonym": [
+        "Wellnhoferia grandis",
+        "Archaeopteryx bavarica",
+        "Pterodactylus crassipes",
+        "Archaeopteryx oweni",
+        "Archaeornis siemensii",
+        "Archaeopteryx macrura",
+        "Griphosaurus problematicus"
+    ],
+    "is_nomen_dubium": false,
+    "size_m": null,
+    "weight_kg": null,
+    "begin_year": null,
+    "end_year": null,
+    "period": null
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Megalosauripus",
+    "rank": "genus",
+    "synonym": [
+        "Turkmenosaurus",
+        "Bueckeburgichnus",
+        "Karkushosauropus",
+        "Megalosauropus",
+        "Chodjapilesaurus",
+        "Turkmenosaurus kugitangensis",
+        "Karkushosauropus karkushensis"
+    ],
+    "is_nomen_dubium": false,
+    "size_m": null,
+    "weight_kg": null,
+    "begin_year": null,
+    "end_year": null,
+    "period": null
+}

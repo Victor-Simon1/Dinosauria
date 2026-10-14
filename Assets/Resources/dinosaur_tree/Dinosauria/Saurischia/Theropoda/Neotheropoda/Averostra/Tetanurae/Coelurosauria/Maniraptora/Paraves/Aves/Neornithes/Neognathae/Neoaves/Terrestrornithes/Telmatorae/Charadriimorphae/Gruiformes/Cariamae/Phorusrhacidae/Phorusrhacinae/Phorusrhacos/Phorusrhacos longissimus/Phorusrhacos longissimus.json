@@ -1,0 +1,27 @@
+{
+    "name": "Phorusrhacos longissimus",
+    "rank": "species",
+    "synonym": [
+        "Darwinornis socialis",
+        "Eucallornis giganteus",
+        "Mesembriornis quatrefragesi",
+        "Callornis giganteus",
+        "Mesembriornis studeri",
+        "Darwinornis zitteli",
+        "Stereornis rollieri",
+        "Titanornis mirabilis",
+        "Phororhacos sehuensis",
+        "Owenornis affinis",
+        "Owenornis lydekkeri",
+        "Phororhacos platygnathus",
+        "Darwinornis copei",
+        "Liornis minor",
+        "Stereornis gaudryi"
+    ],
+    "is_nomen_dubium": false,
+    "size_m": null,
+    "weight_kg": null,
+    "begin_year": null,
+    "end_year": null,
+    "period": null
+}

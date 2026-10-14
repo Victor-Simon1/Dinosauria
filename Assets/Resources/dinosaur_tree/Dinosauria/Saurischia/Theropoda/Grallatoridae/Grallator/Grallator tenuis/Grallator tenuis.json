@@ -1,0 +1,16 @@
+{
+    "name": "Grallator tenuis",
+    "rank": "species",
+    "synonym": [
+        "Anchisauripus hitchcocki",
+        "Atreipus acadianus",
+        "Grallator formosus",
+        "Grallator cuneatus"
+    ],
+    "is_nomen_dubium": false,
+    "size_m": null,
+    "weight_kg": null,
+    "begin_year": null,
+    "end_year": null,
+    "period": null
+}

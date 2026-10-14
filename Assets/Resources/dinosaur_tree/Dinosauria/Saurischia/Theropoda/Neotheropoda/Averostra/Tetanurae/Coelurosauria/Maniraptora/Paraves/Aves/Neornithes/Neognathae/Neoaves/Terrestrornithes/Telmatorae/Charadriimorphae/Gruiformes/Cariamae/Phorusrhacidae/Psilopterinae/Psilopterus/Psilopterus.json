@@ -1,0 +1,20 @@
+{
+    "name": "Psilopterus",
+    "rank": "genus",
+    "synonym": [
+        "Staphylornis",
+        "Psilopterus australis",
+        "Staphylornis gallardoi",
+        "Pelecyornis tubulatus",
+        "Staphylornis erythacus",
+        "Phororhacos modicus",
+        "Pelecyornis",
+        "Phororhacos delicatus"
+    ],
+    "is_nomen_dubium": false,
+    "size_m": null,
+    "weight_kg": null,
+    "begin_year": null,
+    "end_year": null,
+    "period": null
+}

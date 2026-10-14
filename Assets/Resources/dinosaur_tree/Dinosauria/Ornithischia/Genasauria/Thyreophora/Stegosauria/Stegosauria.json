@@ -1,0 +1,33 @@
+{
+    "name": "Stegosauria",
+    "rank": "unranked clade",
+    "synonym": [
+        "Chialingosaurus",
+        "Chialingosaurus guangyuanensis",
+        "Craterosaurus",
+        "Craterosaurus pottonensis",
+        "Regnosaurus",
+        "Regnosaurus northamptoni",
+        "Saldamosaurus",
+        "Saldamosaurus tuvensis",
+        "Omosaurus leedsi",
+        "Eoplophysis",
+        "Eoplophysis vetustus",
+        "Monkonosaurus",
+        "Monkonosaurus lawulacus",
+        "Lexovisaurus durobrivensis",
+        "Wuerhosaurus ordosensis",
+        "Amargastegos",
+        "Amargastegos brevicollus",
+        "Ferganastegos",
+        "Ferganastegos callovicus",
+        "Chialingosaurus kuani",
+        "Chialingosaurus chuhsienensis"
+    ],
+    "is_nomen_dubium": false,
+    "size_m": null,
+    "weight_kg": null,
+    "begin_year": null,
+    "end_year": null,
+    "period": null
+}

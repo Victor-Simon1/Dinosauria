@@ -1,0 +1,25 @@
+{
+    "name": "Ceratopsia",
+    "rank": "unranked clade",
+    "synonym": [
+        "Psittacosaurus sattayaraki",
+        "Microceratus",
+        "Microceratops",
+        "Microceratops gobiensis",
+        "Microceratops sulcidens",
+        "Kulceratops kulensis",
+        "Ponderopoda",
+        "Dysganus",
+        "Dysganus haydenianus",
+        "Dysganus bicarinatus",
+        "Dysganus peiganus",
+        "Dysganus encaustus",
+        "Kulceratops"
+    ],
+    "is_nomen_dubium": false,
+    "size_m": null,
+    "weight_kg": null,
+    "begin_year": null,
+    "end_year": null,
+    "period": null
+}
